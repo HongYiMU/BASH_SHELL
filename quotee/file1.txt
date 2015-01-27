@@ -1,0 +1,5 @@
+#file1 this is the first line of file1.txt
+#grep '[Ff]irst' *.txt
+#print out:
+#file1.txt:#file1 this is the first line of file1.txt
+
